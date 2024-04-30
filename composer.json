@@ -4,29 +4,20 @@
     "keywords": [
         "Blockers Technology",
         "laravel",
-        "repositories-generator"
+        "repositories-generator",
+        "repository pattern"
     ],
     "homepage": "https://github.com/blockers-tech/repositories-generator",
     "license": "MIT",
     "authors": [
         {
             "name": "roseriyadh",
-            "email": "info@blockers.tech",
-            "role": "Developer"
+            "email": "info@blockers.tech"
         }
     ],
     "require": {
         "php": "^8.2",
-        "spatie/laravel-package-tools": "^1.16",
         "illuminate/contracts": "^10.0||^11.0"
-    },
-    "require-dev": {
-        "laravel/pint": "^1.14",
-        "nunomaduro/collision": "^8.1.1||^7.10.0",
-        "orchestra/testbench": "^9.0.0||^8.22.0",
-        "pestphp/pest": "^2.34",
-        "pestphp/pest-plugin-arch": "^2.7",
-        "pestphp/pest-plugin-laravel": "^2.3"
     },
     "autoload": {
         "psr-4": {
@@ -35,8 +26,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "blockers\\RepositoriesGenerator\\Tests\\": "tests/",
-            "Workbench\\App\\": "workbench/app/"
+            "blockers\\RepositoriesGenerator\\Tests\\": "tests/"
         }
     },
     "scripts": {
@@ -68,10 +58,7 @@
         "laravel": {
             "providers": [
                 "blockers\\RepositoriesGenerator\\RepositoriesGeneratorServiceProvider"
-            ],
-            "aliases": {
-                "RepositoriesGenerator": "blockers\\RepositoriesGenerator\\Facades\\RepositoriesGenerator"
-            }
+            ]
         }
     },
     "minimum-stability": "dev",
