@@ -29,7 +29,6 @@ php artisan vendor:publish --tag="repositories-generator-views"
 php artisan make:repository User (Any model name)
 ```
 
-
 ## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
