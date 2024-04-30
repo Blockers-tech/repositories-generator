@@ -13,13 +13,6 @@ composer require blockers-tech/repositories
 ```
 
 
-
-Optionally, you can publish the views using
-
-```bash
-php artisan vendor:publish --tag="repositories-generator-views"
-```
-
 ## Usage
 
 ```bash
