@@ -5,7 +5,7 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/blockers-tech/repositories-generator/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/blockers-tech/repositories/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/blockers-tech/repositories-generator.svg?style=flat-square)](https://packagist.org/packages/blockers-tech/repositories)
 
-Simple package to provide easy generation to repository classes to support Repository Pattern in Laravel.
+Simple package to provide easy generation of repository classes to support Repository Pattern in Laravel.
 
 ## Installation
 
