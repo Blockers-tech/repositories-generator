@@ -1,9 +1,6 @@
 # Repositories Generator
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/blockers-tech/repositories-generator.svg?style=flat-square)](https://packagist.org/packages/blockers-tech/repositories)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/blockers-tech/repositories-generator/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/blockers-tech/repositories/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/blockers-tech/repositories-generator/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/blockers-tech/repositories/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/blockers-tech/repositories-generator.svg?style=flat-square)](https://packagist.org/packages/blockers-tech/repositories)
+[![Latest Stable Version](http://poser.pugx.org/blockers-tech/repositories/v)](https://packagist.org/packages/blockers-tech/repositories) [![Total Downloads](http://poser.pugx.org/blockers-tech/repositories/downloads)](https://packagist.org/packages/blockers-tech/repositories) [![Latest Unstable Version](http://poser.pugx.org/blockers-tech/repositories/v/unstable)](https://packagist.org/packages/blockers-tech/repositories) [![License](http://poser.pugx.org/blockers-tech/repositories/license)](https://packagist.org/packages/blockers-tech/repositories) [![PHP Version Require](http://poser.pugx.org/blockers-tech/repositories/require/php)](https://packagist.org/packages/blockers-tech/repositories)
 
 Simple package to provide easy generation of repository classes to support Repository Pattern in Laravel.
 
