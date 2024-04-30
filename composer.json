@@ -61,8 +61,5 @@
             ]
         }
     },
-    "replace": {
-        "blockers-tech/repositories": "self.version"
-    },
     "prefer-stable": true
 }
